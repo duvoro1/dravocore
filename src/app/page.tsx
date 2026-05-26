@@ -1,7 +1,5 @@
 "use client";
 
-"use client";
-
 import { useState, useEffect, useRef } from "react";
 import { motion, AnimatePresence, useInView, useScroll, useTransform } from "framer-motion";
 import { Bell, ArrowRight, ExternalLink } from "lucide-react";
