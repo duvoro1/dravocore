@@ -4,6 +4,7 @@ import { useState, useEffect, useRef } from "react";
 import { motion, AnimatePresence, useInView, useScroll, useTransform } from "framer-motion";
 import { Bell, ArrowRight, ExternalLink } from "lucide-react";
 
+
 /* ═══════════════ CONSTANTS ═══════════════ */
 const C = {
   bg: "#0a0a0b", surface: "#131517", border: "#1e2024", borderL: "#2a2d32",
